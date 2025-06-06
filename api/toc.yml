@@ -404,8 +404,8 @@ items:
   - uid: SharpSDL3.Enums.ScaleMode
     name: ScaleMode
     type: Enum
-  - uid: SharpSDL3.Enums.ScanCode
-    name: ScanCode
+  - uid: SharpSDL3.Enums.Scancode
+    name: Scancode
     type: Enum
   - uid: SharpSDL3.Enums.SensorType
     name: SensorType

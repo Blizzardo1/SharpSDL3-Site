@@ -24,7 +24,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Direction
     path: ../../repos/SDL3-CS/SDL3/TTF/Direction.cs
-    startLine: 1
+    startLine: 2
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -49,7 +49,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Invalid
     path: ../../repos/SDL3-CS/SDL3/TTF/Direction.cs
-    startLine: 2
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -75,7 +75,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LeftToRight
     path: ../../repos/SDL3-CS/SDL3/TTF/Direction.cs
-    startLine: 3
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -101,7 +101,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RightToLeft
     path: ../../repos/SDL3-CS/SDL3/TTF/Direction.cs
-    startLine: 4
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -127,7 +127,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: TopToBottom
     path: ../../repos/SDL3-CS/SDL3/TTF/Direction.cs
-    startLine: 5
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -153,7 +153,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: BottomToTop
     path: ../../repos/SDL3-CS/SDL3/TTF/Direction.cs
-    startLine: 6
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF

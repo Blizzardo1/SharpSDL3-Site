@@ -102,7 +102,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Name
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 8
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -129,7 +129,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Face
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 9
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -156,7 +156,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FaceIndex
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 10
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -183,7 +183,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Props
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 11
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -210,7 +210,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Generation
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 12
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -239,7 +239,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Text
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 13
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -266,7 +266,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Size
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 14
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -295,7 +295,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Hdpi
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 19
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -322,7 +322,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Vdpi
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 20
+    startLine: 23
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -349,7 +349,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Height
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 21
+    startLine: 24
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -378,7 +378,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ascent
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 22
+    startLine: 25
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -407,7 +407,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Descent
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 23
+    startLine: 26
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -436,7 +436,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Lineskip
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 24
+    startLine: 27
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -465,7 +465,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Style
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 25
+    startLine: 29
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -494,7 +494,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Weight
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 30
+    startLine: 34
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -523,7 +523,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Outline
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 31
+    startLine: 35
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -550,7 +550,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Stroker
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 32
+    startLine: 36
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -577,7 +577,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EnableKerning
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 33
+    startLine: 38
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -606,7 +606,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UseKerning
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 38
+    startLine: 44
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -633,7 +633,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GlyphOverhang
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 40
+    startLine: 46
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -660,7 +660,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LineThickness
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 41
+    startLine: 47
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -687,7 +687,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UnderlineTopRow
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 42
+    startLine: 48
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -714,7 +714,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: StrikethroughTopRow
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 43
+    startLine: 49
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -741,7 +741,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Glyphs
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 44
+    startLine: 50
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -768,7 +768,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GlyphIndices
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 45
+    startLine: 51
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -795,7 +795,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Src
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 46
+    startLine: 52
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -822,7 +822,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SrcOffset
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 47
+    startLine: 53
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -849,7 +849,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CloseIo
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 48
+    startLine: 54
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -876,7 +876,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Args
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 49
+    startLine: 55
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -903,7 +903,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NextCachedPositions
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 50
+    startLine: 56
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -930,7 +930,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CachedPositions
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 51
+    startLine: 57
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -957,7 +957,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Positions
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 52
+    startLine: 58
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -984,7 +984,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FtLoadTarget
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 53
+    startLine: 59
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1011,7 +1011,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderSubpixel
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 54
+    startLine: 60
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1038,7 +1038,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Script
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 59
+    startLine: 65
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1065,7 +1065,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Direction
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 60
+    startLine: 66
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1092,7 +1092,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderSdf
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 61
+    startLine: 67
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1119,7 +1119,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: HorizontalAlign
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 62
+    startLine: 68
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1146,7 +1146,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Fallbacks
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 63
+    startLine: 69
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1173,7 +1173,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FallbackFor
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 64
+    startLine: 70
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1200,7 +1200,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Handle
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 66
+    startLine: 72
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1229,7 +1229,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GetTextSize
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 71
+    startLine: 77
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1263,7 +1263,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderTextSolid
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 72
+    startLine: 79
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1299,7 +1299,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderGlyphSolid
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 73
+    startLine: 81
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1335,7 +1335,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderTextShaded
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 74
+    startLine: 83
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1373,7 +1373,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderGlyphShaded
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 75
+    startLine: 85
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1411,7 +1411,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderTextBlended
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 76
+    startLine: 87
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1447,7 +1447,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderGlyphBlended
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 77
+    startLine: 89
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1483,7 +1483,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RenderTextBlendedWrapped
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 78
+    startLine: 91
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1521,7 +1521,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GetFontKerningSize
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 80
+    startLine: 93
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -1549,7 +1549,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Close
     path: ../../repos/SDL3-CS/SDL3/TTF/Font.cs
-    startLine: 82
+    startLine: 95
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF

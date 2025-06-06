@@ -71,7 +71,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModNone
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -97,7 +97,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModLShift
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -123,7 +123,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModRShift
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -149,7 +149,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModLCtrl
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -175,7 +175,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModRCtrl
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -201,7 +201,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModLAlt
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -227,7 +227,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModRAlt
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -253,7 +253,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModLGui
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -279,7 +279,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModRGui
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -305,7 +305,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModNum
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -331,7 +331,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModCaps
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -357,7 +357,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModMode
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -383,7 +383,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModScroll
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -409,7 +409,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModCtrl
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -436,7 +436,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModShift
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 21
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -463,7 +463,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModAlt
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 22
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -490,7 +490,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KModGui
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeymod.cs
-    startLine: 23
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

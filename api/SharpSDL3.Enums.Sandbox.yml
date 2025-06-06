@@ -49,7 +49,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: None
     path: ../../repos/SDL3-CS/SDL3/Enums/Sandbox.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -75,7 +75,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UnknownContainer
     path: ../../repos/SDL3-CS/SDL3/Enums/Sandbox.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -101,7 +101,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Flatpak
     path: ../../repos/SDL3-CS/SDL3/Enums/Sandbox.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -127,7 +127,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Snap
     path: ../../repos/SDL3-CS/SDL3/Enums/Sandbox.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -153,7 +153,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Macos
     path: ../../repos/SDL3-CS/SDL3/Enums/Sandbox.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

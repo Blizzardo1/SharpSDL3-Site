@@ -54,7 +54,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Version
     path: ../../repos/SDL3-CS/SDL3/TTF/TextEngine.cs
-    startLine: 9
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -83,7 +83,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UserData
     path: ../../repos/SDL3-CS/SDL3/TTF/TextEngine.cs
-    startLine: 14
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -112,7 +112,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Handle
     path: ../../repos/SDL3-CS/SDL3/TTF/TextEngine.cs
-    startLine: 37
+    startLine: 38
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF

@@ -22,7 +22,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: QuitEvent
     path: ../../repos/SDL3-CS/SDL3/Structs/QuitEvent.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -54,7 +54,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/QuitEvent.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -81,7 +81,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Reserved3
     path: ../../repos/SDL3-CS/SDL3/Structs/QuitEvent.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -108,7 +108,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Timestamp
     path: ../../repos/SDL3-CS/SDL3/Structs/QuitEvent.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

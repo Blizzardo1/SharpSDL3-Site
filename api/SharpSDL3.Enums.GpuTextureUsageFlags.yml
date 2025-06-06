@@ -60,7 +60,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Sampler
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureUsageFlags.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -86,7 +86,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ColorTarget
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureUsageFlags.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -112,7 +112,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DepthStencilTarget
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureUsageFlags.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -138,7 +138,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GraphicsStorageRead
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureUsageFlags.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -164,7 +164,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ComputeStorageRead
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureUsageFlags.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -190,7 +190,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ComputeStorageWrite
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureUsageFlags.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

@@ -60,7 +60,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Private
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuShaderFormat.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -86,7 +86,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Spirv
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuShaderFormat.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -112,7 +112,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Dxbc
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuShaderFormat.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -138,7 +138,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Dxil
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuShaderFormat.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -164,7 +164,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Msl
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuShaderFormat.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -190,7 +190,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MetalLib
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuShaderFormat.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

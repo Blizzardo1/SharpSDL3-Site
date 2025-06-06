@@ -53,7 +53,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Invalid
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -79,7 +79,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Trace
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -105,7 +105,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Verbose
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -131,7 +131,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Debug
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -157,7 +157,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Info
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -183,7 +183,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Warn
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -209,7 +209,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Error
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -235,7 +235,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Critical
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -261,7 +261,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Count
     path: ../../repos/SDL3-CS/SDL3/Enums/LogPriority.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

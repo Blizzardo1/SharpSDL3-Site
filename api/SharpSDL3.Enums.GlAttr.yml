@@ -72,7 +72,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RedSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -98,7 +98,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GreenSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -124,7 +124,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: BlueSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -150,7 +150,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AlphaSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -176,7 +176,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: BufferSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -202,7 +202,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Doublebuffer
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -228,7 +228,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DepthSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -254,7 +254,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: StencilSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -280,7 +280,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AccumRedSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -306,7 +306,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AccumGreenSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -332,7 +332,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AccumBlueSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -358,7 +358,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AccumAlphaSize
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -384,7 +384,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Stereo
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -410,7 +410,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Multisamplebuffers
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -436,7 +436,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Multisamplesamples
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -462,7 +462,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcceleratedVisual
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -488,7 +488,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RetainedBacking
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -514,7 +514,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContextMajorVersion
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 21
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -540,7 +540,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContextMinorVersion
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 22
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -566,7 +566,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContextFlags
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 23
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -592,7 +592,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContextProfileMask
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 24
+    startLine: 23
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -618,7 +618,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ShareWithCurrentContext
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 25
+    startLine: 24
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -644,7 +644,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FramebufferSrgbCapable
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 26
+    startLine: 25
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -670,7 +670,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContextReleaseBehavior
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 27
+    startLine: 26
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -696,7 +696,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContextResetNotification
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 28
+    startLine: 27
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -722,7 +722,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContextNoError
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 29
+    startLine: 28
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -748,7 +748,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Floatbuffers
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 30
+    startLine: 29
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -774,7 +774,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EglPlatform
     path: ../../repos/SDL3-CS/SDL3/Enums/GlAttr.cs
-    startLine: 31
+    startLine: 30
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

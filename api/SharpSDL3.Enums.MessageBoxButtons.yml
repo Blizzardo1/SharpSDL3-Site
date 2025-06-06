@@ -37,7 +37,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MessageBoxButtons
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 1
+    startLine: 2
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -62,7 +62,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: YesNo
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 2
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -88,7 +88,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: YesNoCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 3
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -114,7 +114,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ok
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 4
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -140,7 +140,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: OkCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 5
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -166,7 +166,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AbortRetryIgnore
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 6
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -192,7 +192,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: TryAgain
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 7
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -218,7 +218,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: TryAgainCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 8
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -244,7 +244,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ContinueCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 9
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -270,7 +270,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RetryCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 10
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -296,7 +296,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: YesNoCancelRetry
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 11
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -322,7 +322,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: YesNoCancelIgnore
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 12
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -348,7 +348,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: HelpClose
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 13
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -374,7 +374,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ApplyCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 14
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -400,7 +400,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SaveCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 15
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -426,7 +426,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ResetCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 16
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -452,7 +452,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RetryIgnoreAll
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 17
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -478,7 +478,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NoToAllCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 18
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -504,7 +504,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: YesToAllCancel
     path: ../../repos/SDL3-CS/SDL3/Enums/MessageBoxButtons.cs
-    startLine: 19
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

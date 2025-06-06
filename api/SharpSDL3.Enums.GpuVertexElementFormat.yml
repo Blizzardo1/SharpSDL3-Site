@@ -75,7 +75,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Invalid
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -101,7 +101,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -127,7 +127,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Int2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -153,7 +153,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Int3
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -179,7 +179,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Int4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -205,7 +205,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -231,7 +231,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Uint2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -257,7 +257,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Uint3
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -283,7 +283,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Uint4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -309,7 +309,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -335,7 +335,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Float2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -361,7 +361,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Float3
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -387,7 +387,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Float4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -413,7 +413,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Byte2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -439,7 +439,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Byte4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -465,7 +465,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UByte2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -491,7 +491,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UByte4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -517,7 +517,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Byte2Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 21
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -543,7 +543,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Byte4Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 22
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -569,7 +569,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UByte2Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 23
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -595,7 +595,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UByte4Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 24
+    startLine: 23
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -621,7 +621,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Short2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 25
+    startLine: 24
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -647,7 +647,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Short4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 26
+    startLine: 25
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -673,7 +673,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ushort2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 27
+    startLine: 26
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -699,7 +699,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ushort4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 28
+    startLine: 27
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -725,7 +725,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Short2Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 29
+    startLine: 28
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -751,7 +751,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Short4Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 30
+    startLine: 29
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -777,7 +777,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ushort2Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 31
+    startLine: 30
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -803,7 +803,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ushort4Norm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 32
+    startLine: 31
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -829,7 +829,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Half2
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 33
+    startLine: 32
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -855,7 +855,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Half4
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuVertexElementFormat.cs
-    startLine: 34
+    startLine: 33
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

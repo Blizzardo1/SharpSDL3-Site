@@ -64,7 +64,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Timer
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -90,7 +90,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Audio
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -116,7 +116,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Video
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -142,7 +142,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Joystick
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -168,7 +168,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Haptic
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -194,7 +194,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Gamepad
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -220,7 +220,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Events
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -246,7 +246,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Sensor
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -272,7 +272,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Camera
     path: ../../repos/SDL3-CS/SDL3/Enums/InitFlags.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

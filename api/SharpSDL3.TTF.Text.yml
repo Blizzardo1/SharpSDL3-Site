@@ -56,7 +56,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: TextStr
     path: ../../repos/SDL3-CS/SDL3/TTF/Text.cs
-    startLine: 10
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -88,7 +88,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NumLines
     path: ../../repos/SDL3-CS/SDL3/TTF/Text.cs
-    startLine: 15
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -117,7 +117,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RefCount
     path: ../../repos/SDL3-CS/SDL3/TTF/Text.cs
-    startLine: 20
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -146,7 +146,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Internal
     path: ../../repos/SDL3-CS/SDL3/TTF/Text.cs
-    startLine: 25
+    startLine: 26
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -175,7 +175,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Handle
     path: ../../repos/SDL3-CS/SDL3/TTF/Text.cs
-    startLine: 30
+    startLine: 31
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF

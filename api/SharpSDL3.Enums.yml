@@ -99,7 +99,7 @@ items:
   - SharpSDL3.Enums.RendererLogicalPresentation
   - SharpSDL3.Enums.Sandbox
   - SharpSDL3.Enums.ScaleMode
-  - SharpSDL3.Enums.ScanCode
+  - SharpSDL3.Enums.Scancode
   - SharpSDL3.Enums.SensorType
   - SharpSDL3.Enums.SurfaceDataFlags
   - SharpSDL3.Enums.SurfaceFlags
@@ -775,13 +775,13 @@ references:
   name: ScaleMode
   nameWithType: ScaleMode
   fullName: SharpSDL3.Enums.ScaleMode
-- uid: SharpSDL3.Enums.ScanCode
-  commentId: T:SharpSDL3.Enums.ScanCode
+- uid: SharpSDL3.Enums.Scancode
+  commentId: T:SharpSDL3.Enums.Scancode
   parent: SharpSDL3.Enums
-  href: SharpSDL3.Enums.ScanCode.html
-  name: ScanCode
-  nameWithType: ScanCode
-  fullName: SharpSDL3.Enums.ScanCode
+  href: SharpSDL3.Enums.Scancode.html
+  name: Scancode
+  nameWithType: Scancode
+  fullName: SharpSDL3.Enums.Scancode
 - uid: SharpSDL3.Enums.Keycode
   commentId: T:SharpSDL3.Enums.Keycode
   parent: SharpSDL3.Enums

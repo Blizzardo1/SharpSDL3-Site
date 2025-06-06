@@ -26,7 +26,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MessageBoxData
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -58,7 +58,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Flags
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -85,7 +85,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Window
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -112,7 +112,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Title
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -139,7 +139,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Message
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -166,7 +166,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NumButtons
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -193,7 +193,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Buttons
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -220,7 +220,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ColorScheme
     path: ../../repos/SDL3-CS/SDL3/Structs/MessageBoxData.cs
-    startLine: 15
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

@@ -149,7 +149,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Invalid
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -175,7 +175,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: A8UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -201,7 +201,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -227,7 +227,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -253,7 +253,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8B8A8UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -279,7 +279,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -305,7 +305,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -331,7 +331,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16B16A16UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -357,7 +357,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R10G10B10A2UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -383,7 +383,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: B5G6R5UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -409,7 +409,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: B5G5R5A1UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -435,7 +435,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: B4G4R4A4UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -461,7 +461,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: B8G8R8A8UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -487,7 +487,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc1RgbaUNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -513,7 +513,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc2RgbaUNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -539,7 +539,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc3RgbaUNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -565,7 +565,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc4RuNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -591,7 +591,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc5RgUNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 21
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -617,7 +617,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc7RgbaUNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 22
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -643,7 +643,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc6HRgbFloat
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 23
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -669,7 +669,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc6HRgbUFloat
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 24
+    startLine: 23
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -695,7 +695,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8Snorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 25
+    startLine: 24
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -721,7 +721,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8Snorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 26
+    startLine: 25
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -747,7 +747,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8B8A8Snorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 27
+    startLine: 26
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -773,7 +773,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16Snorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 28
+    startLine: 27
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -799,7 +799,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16Snorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 29
+    startLine: 28
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -825,7 +825,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16B16A16Snorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 30
+    startLine: 29
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -851,7 +851,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 31
+    startLine: 30
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -877,7 +877,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 32
+    startLine: 31
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -903,7 +903,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16B16A16Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 33
+    startLine: 32
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -929,7 +929,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 34
+    startLine: 33
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -955,7 +955,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32G32Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 35
+    startLine: 34
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -981,7 +981,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32G32B32A32Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 36
+    startLine: 35
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1007,7 +1007,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R11G11B10UFloat
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 37
+    startLine: 36
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1033,7 +1033,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 38
+    startLine: 37
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1059,7 +1059,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 39
+    startLine: 38
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1085,7 +1085,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8B8A8Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 40
+    startLine: 39
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1111,7 +1111,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 41
+    startLine: 40
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1137,7 +1137,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 42
+    startLine: 41
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1163,7 +1163,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16B16A16Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 43
+    startLine: 42
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1189,7 +1189,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 44
+    startLine: 43
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1215,7 +1215,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32G32Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 45
+    startLine: 44
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1241,7 +1241,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32G32B32A32Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 46
+    startLine: 45
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1267,7 +1267,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 47
+    startLine: 46
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1293,7 +1293,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 48
+    startLine: 47
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1319,7 +1319,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8B8A8Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 49
+    startLine: 48
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1345,7 +1345,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 50
+    startLine: 49
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1371,7 +1371,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 51
+    startLine: 50
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1397,7 +1397,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R16G16B16A16Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 52
+    startLine: 51
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1423,7 +1423,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 53
+    startLine: 52
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1449,7 +1449,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32G32Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 54
+    startLine: 53
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1475,7 +1475,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R32G32B32A32Int
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 55
+    startLine: 54
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1501,7 +1501,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R8G8B8A8UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 56
+    startLine: 55
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1527,7 +1527,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: B8G8R8A8UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 57
+    startLine: 56
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1553,7 +1553,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc1RgbaUNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 58
+    startLine: 57
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1579,7 +1579,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc2RgbaUNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 59
+    startLine: 58
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1605,7 +1605,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc3RgbaUNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 60
+    startLine: 59
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1631,7 +1631,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bc7RgbaUNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 61
+    startLine: 60
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1657,7 +1657,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: D16UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 62
+    startLine: 61
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1683,7 +1683,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: D24UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 63
+    startLine: 62
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1709,7 +1709,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: D32Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 64
+    startLine: 63
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1735,7 +1735,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: D24UNormS8Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 65
+    startLine: 64
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1761,7 +1761,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: D32FloatS8Uint
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 66
+    startLine: 65
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1787,7 +1787,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc4X4UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 67
+    startLine: 66
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1813,7 +1813,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc5X4UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 68
+    startLine: 67
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1839,7 +1839,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc5X5UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 69
+    startLine: 68
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1865,7 +1865,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc6X5UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 70
+    startLine: 69
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1891,7 +1891,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc6X6UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 71
+    startLine: 70
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1917,7 +1917,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X5UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 72
+    startLine: 71
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1943,7 +1943,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X6UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 73
+    startLine: 72
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1969,7 +1969,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X8UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 74
+    startLine: 73
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1995,7 +1995,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X5UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 75
+    startLine: 74
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2021,7 +2021,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X6UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 76
+    startLine: 75
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2047,7 +2047,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X8UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 77
+    startLine: 76
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2073,7 +2073,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X10UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 78
+    startLine: 77
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2099,7 +2099,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc12X10UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 79
+    startLine: 78
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2125,7 +2125,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc12X12UNorm
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 80
+    startLine: 79
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2151,7 +2151,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc4X4UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 81
+    startLine: 80
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2177,7 +2177,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc5X4UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 82
+    startLine: 81
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2203,7 +2203,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc5X5UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 83
+    startLine: 82
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2229,7 +2229,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc6X5UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 84
+    startLine: 83
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2255,7 +2255,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc6X6UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 85
+    startLine: 84
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2281,7 +2281,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X5UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 86
+    startLine: 85
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2307,7 +2307,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X6UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 87
+    startLine: 86
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2333,7 +2333,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X8UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 88
+    startLine: 87
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2359,7 +2359,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X5UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 89
+    startLine: 88
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2385,7 +2385,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X6UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 90
+    startLine: 89
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2411,7 +2411,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X8UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 91
+    startLine: 90
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2437,7 +2437,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X10UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 92
+    startLine: 91
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2463,7 +2463,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc12X10UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 93
+    startLine: 92
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2489,7 +2489,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc12X12UNormSrgb
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 94
+    startLine: 93
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2515,7 +2515,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc4X4Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 95
+    startLine: 94
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2541,7 +2541,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc5X4Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 96
+    startLine: 95
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2567,7 +2567,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc5X5Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 97
+    startLine: 96
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2593,7 +2593,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc6X5Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 98
+    startLine: 97
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2619,7 +2619,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc6X6Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 99
+    startLine: 98
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2645,7 +2645,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X5Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 100
+    startLine: 99
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2671,7 +2671,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X6Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 101
+    startLine: 100
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2697,7 +2697,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc8X8Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 102
+    startLine: 101
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2723,7 +2723,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X5Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 103
+    startLine: 102
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2749,7 +2749,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X6Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 104
+    startLine: 103
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2775,7 +2775,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X8Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 105
+    startLine: 104
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2801,7 +2801,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc10X10Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 106
+    startLine: 105
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2827,7 +2827,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc12X10Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 107
+    startLine: 106
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2853,7 +2853,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Astc12X12Float
     path: ../../repos/SDL3-CS/SDL3/Enums/GpuTextureFormat.cs
-    startLine: 108
+    startLine: 107
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

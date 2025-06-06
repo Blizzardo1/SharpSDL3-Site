@@ -57,7 +57,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Unknown
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -83,7 +83,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Srgb
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -109,7 +109,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SrgbLinear
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -135,7 +135,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Hdr10
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -161,7 +161,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Jpeg
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -187,7 +187,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt601Limited
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -213,7 +213,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt601Full
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -239,7 +239,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt709Limited
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -265,7 +265,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt709Full
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -291,7 +291,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt2020Limited
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -317,7 +317,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt2020Full
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -343,7 +343,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RgbDefault
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -369,7 +369,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: YuvDefault
     path: ../../repos/SDL3-CS/SDL3/Enums/Colorspace.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

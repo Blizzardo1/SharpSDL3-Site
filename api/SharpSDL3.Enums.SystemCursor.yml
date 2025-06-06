@@ -65,7 +65,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Default
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -91,7 +91,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Text
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -117,7 +117,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Wait
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -143,7 +143,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Crosshair
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -169,7 +169,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Progress
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -195,7 +195,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NwSeResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -221,7 +221,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NeSwResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -247,7 +247,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EwResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -273,7 +273,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NsResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -299,7 +299,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Move
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -325,7 +325,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NotAllowed
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -351,7 +351,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Pointer
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -377,7 +377,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NwResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -403,7 +403,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -429,7 +429,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NeResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -455,7 +455,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -481,7 +481,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SeResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -507,7 +507,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 21
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -533,7 +533,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SwResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 22
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -559,7 +559,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: WResize
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 23
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -585,7 +585,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Count
     path: ../../repos/SDL3-CS/SDL3/Enums/SystemCursor.cs
-    startLine: 24
+    startLine: 23
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

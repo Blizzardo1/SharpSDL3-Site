@@ -19,7 +19,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SdlAssertionHandler
     path: ../../repos/SDL3-CS/SDL3/Delegates.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3

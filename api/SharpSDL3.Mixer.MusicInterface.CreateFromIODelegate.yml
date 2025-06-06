@@ -34,7 +34,7 @@ items:
       description: The input stream containing music data.
     - id: closeio
       type: System.Boolean
-      description: True to close the stream after loading, false otherwise.
+      description: True to close the stream after loading, <a href="https://learn.microsoft.com/dotnet/csharp/language-reference/builtin-types/bool">false</a> otherwise.
     return:
       type: System.IntPtr
       description: An opaque pointer to the music object, or <xref href="System.IntPtr.Zero" data-throw-if-not-resolved="false"></xref> on failure.

@@ -24,7 +24,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Vector3
     path: ../../repos/SDL3-CS/SDL3/Structs/Vector3.cs
-    startLine: 1
+    startLine: 2
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -55,7 +55,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: .ctor
     path: ../../repos/SDL3-CS/SDL3/Structs/Vector3.cs
-    startLine: 1
+    startLine: 2
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -91,7 +91,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: X
     path: ../../repos/SDL3-CS/SDL3/Structs/Vector3.cs
-    startLine: 2
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -120,7 +120,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Y
     path: ../../repos/SDL3-CS/SDL3/Structs/Vector3.cs
-    startLine: 3
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -149,7 +149,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Z
     path: ../../repos/SDL3-CS/SDL3/Structs/Vector3.cs
-    startLine: 4
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -178,7 +178,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ToString
     path: ../../repos/SDL3-CS/SDL3/Structs/Vector3.cs
-    startLine: 6
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

@@ -27,7 +27,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AsyncIoOutcome
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -59,7 +59,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AsyncIo
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -86,7 +86,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -113,7 +113,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Result
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -140,7 +140,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Buffer
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -167,7 +167,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Offset
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -194,7 +194,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: BytesRequested
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -221,7 +221,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: BytesTransferred
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 15
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -248,7 +248,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UserData
     path: ../../repos/SDL3-CS/SDL3/Structs/AsyncIoOutcome.cs
-    startLine: 16
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

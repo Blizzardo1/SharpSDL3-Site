@@ -65,7 +65,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -92,7 +92,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Direction
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -119,7 +119,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Length
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -146,7 +146,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Delay
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -173,7 +173,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Button
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -200,7 +200,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Interval
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -227,7 +227,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Channels
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -254,7 +254,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Period
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -281,7 +281,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Samples
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -308,7 +308,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Data
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -335,7 +335,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AttackLength
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -362,7 +362,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AttackLevel
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -389,7 +389,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FadeLength
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -416,7 +416,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FadeLevel
     path: ../../repos/SDL3-CS/SDL3/Structs/HapticCustom.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

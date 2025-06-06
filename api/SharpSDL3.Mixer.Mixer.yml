@@ -154,10 +154,10 @@ items:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
   syntax:
-    content: public const string EffectMaxSpeed = "MIX_EFFECTSMAXSPEED"
+    content: public const string EffectMaxSpeed = "EFFECTSMAXSPEED"
     return:
       type: System.String
-    content.vb: Public Const EffectMaxSpeed As String = "MIX_EFFECTSMAXSPEED"
+    content.vb: Public Const EffectMaxSpeed As String = "EFFECTSMAXSPEED"
 - uid: SharpSDL3.Mixer.Mixer.Major
   commentId: F:SharpSDL3.Mixer.Mixer.Major
   id: Major
@@ -210,10 +210,10 @@ items:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
   syntax:
-    content: public const int Micro = 0
+    content: public const int Micro = 2
     return:
       type: System.Int32
-    content.vb: Public Const Micro As Integer = 0
+    content.vb: Public Const Micro As Integer = 2
 - uid: SharpSDL3.Mixer.Mixer.Minor
   commentId: F:SharpSDL3.Mixer.Mixer.Minor
   id: Minor
@@ -237,10 +237,10 @@ items:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
   syntax:
-    content: public const int Minor = 0
+    content: public const int Minor = 4
     return:
       type: System.Int32
-    content.vb: Public Const Minor As Integer = 0
+    content.vb: Public Const Minor As Integer = 4
 - uid: SharpSDL3.Mixer.Mixer.ChannelFinished(SharpSDL3.Mixer.Mixer.Mix_ChannelFinishedCallback)
   commentId: M:SharpSDL3.Mixer.Mixer.ChannelFinished(SharpSDL3.Mixer.Mixer.Mix_ChannelFinishedCallback)
   id: ChannelFinished(SharpSDL3.Mixer.Mixer.Mix_ChannelFinishedCallback)
@@ -1648,7 +1648,7 @@ items:
       description: The micro version to check.
     return:
       type: System.Boolean
-      description: True if the compiled version is at least the specified version; otherwise, false.
+      description: True if the compiled version is at least the specified version; otherwise, <a href="https://learn.microsoft.com/dotnet/csharp/language-reference/builtin-types/bool">false</a>.
     content.vb: Public Shared Function MixerVersionAtLeast(major As Integer, minor As Integer, micro As Integer) As Boolean
   overload: SharpSDL3.Mixer.Mixer.MixerVersionAtLeast*
   nameWithType.vb: Mixer.MixerVersionAtLeast(Integer, Integer, Integer)
@@ -1989,7 +1989,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LoadWav
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 508
+    startLine: 523
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2035,7 +2035,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PlayChannel
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 534
+    startLine: 549
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2083,7 +2083,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PlayChannel
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 548
+    startLine: 563
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2121,7 +2121,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PlayChannelTimed
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 552
+    startLine: 567
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2161,7 +2161,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RegisterEffect
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 594
+    startLine: 609
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2173,7 +2173,7 @@ items:
     parameters:
     - id: channel
       type: System.Int32
-      description: The channel to apply the effect to, or <xref href="SharpSDL3.Mixer.Mixer.MIX_CHANNEL_POST" data-throw-if-not-resolved="false"></xref> for the final mix.
+      description: The channel to apply the effect to, or CHANNEL_POST for the final mix.
     - id: effect
       type: SharpSDL3.Mixer.Mixer.Mix_EffectFunc_t
       description: The effect callback that processes audio data.
@@ -2210,7 +2210,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetPanning
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 609
+    startLine: 624
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2222,7 +2222,7 @@ items:
     parameters:
     - id: channel
       type: System.Int32
-      description: The channel to apply panning to, or <xref href="SharpSDL3.Mixer.Mixer.MIX_CHANNEL_POST" data-throw-if-not-resolved="false"></xref> for the final mix.
+      description: The channel to apply panning to, or CHANNEL_POST for the final mix.
     - id: left
       type: System.Byte
       description: The volume of the left channel (0 to 255, where 0 is silent and 255 is full volume).
@@ -2256,7 +2256,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Channels
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 621
+    startLine: 636
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2285,7 +2285,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DefaultChannels
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 626
+    startLine: 641
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2314,7 +2314,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DefaultFormat
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 631
+    startLine: 646
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2343,7 +2343,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DefaultFrequency
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 636
+    startLine: 651
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2372,7 +2372,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MaxVolume
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 641
+    startLine: 656
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2401,7 +2401,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MIX_CHANNEL_POST
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 646
+    startLine: 661
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2430,7 +2430,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MIX_MAX_VOLUME
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 651
+    startLine: 666
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2459,7 +2459,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ModMusicJumpToOrder
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 692
+    startLine: 707
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2494,7 +2494,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MusicDuration
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 698
+    startLine: 713
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2525,7 +2525,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MusicDuration
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 704
+    startLine: 719
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2559,7 +2559,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Pause
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 710
+    startLine: 725
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2591,7 +2591,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Paused
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 716
+    startLine: 731
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2625,7 +2625,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PausedMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 722
+    startLine: 737
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2653,7 +2653,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PauseGroup
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 724
+    startLine: 739
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2685,7 +2685,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PauseMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 730
+    startLine: 745
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2711,7 +2711,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Playing
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 732
+    startLine: 747
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2745,7 +2745,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PlayingMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 738
+    startLine: 753
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2773,7 +2773,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PlayMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 750
+    startLine: 765
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2821,7 +2821,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PlayMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 754
+    startLine: 769
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2857,7 +2857,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ReserveChannels
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 769
+    startLine: 783
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2891,7 +2891,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Resume
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 775
+    startLine: 789
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2923,7 +2923,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ResumeGroup
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 781
+    startLine: 795
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2955,7 +2955,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ResumeMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 787
+    startLine: 801
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -2981,7 +2981,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RewindMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 789
+    startLine: 803
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3007,7 +3007,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetDistance
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 791
+    startLine: 805
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3043,7 +3043,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetMusicPosition
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 799
+    startLine: 813
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3077,7 +3077,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetPosition
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 805
+    startLine: 819
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3115,7 +3115,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetPostMix
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 815
+    startLine: 829
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3149,7 +3149,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetReverseStereo
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 821
+    startLine: 835
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3185,7 +3185,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetSoundFonts
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 829
+    startLine: 843
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3219,7 +3219,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SetTimidityCfg
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 835
+    startLine: 849
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3253,7 +3253,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: StartTrack
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 841
+    startLine: 855
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3289,7 +3289,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UnregisterAllEffects
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 849
+    startLine: 863
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3323,7 +3323,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UnregisterEffect
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 855
+    startLine: 869
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3359,7 +3359,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Volume
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 863
+    startLine: 877
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3395,7 +3395,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: VolumeChunk
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 871
+    startLine: 885
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3431,7 +3431,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: VolumeChunk
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 875
+    startLine: 889
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -3467,7 +3467,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: VolumeMusic
     path: ../../repos/SDL3-CS/SDL3/Mixer/Mixer.cs
-    startLine: 883
+    startLine: 897
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -4289,12 +4289,6 @@ references:
   name: PlayChannelTimed
   nameWithType: Mixer.PlayChannelTimed
   fullName: SharpSDL3.Mixer.Mixer.PlayChannelTimed
-- uid: SharpSDL3.Mixer.Mixer.MIX_CHANNEL_POST
-  commentId: F:SharpSDL3.Mixer.Mixer.MIX_CHANNEL_POST
-  href: SharpSDL3.Mixer.Mixer.html#SharpSDL3_Mixer_Mixer_MIX_CHANNEL_POST
-  name: MIX_CHANNEL_POST
-  nameWithType: Mixer.MIX_CHANNEL_POST
-  fullName: SharpSDL3.Mixer.Mixer.MIX_CHANNEL_POST
 - uid: SharpSDL3.Mixer.Mixer.RegisterEffect*
   commentId: Overload:SharpSDL3.Mixer.Mixer.RegisterEffect
   href: SharpSDL3.Mixer.Mixer.html#SharpSDL3_Mixer_Mixer_RegisterEffect_System_Int32_SharpSDL3_Mixer_Mixer_Mix_EffectFunc_t_SharpSDL3_Mixer_Mixer_Mix_EffectDone_t_System_IntPtr_

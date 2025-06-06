@@ -301,7 +301,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ScancodeMask
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -327,7 +327,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Unknown
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -353,7 +353,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Return
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -379,7 +379,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Escape
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -405,7 +405,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Backspace
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -431,7 +431,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Tab
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -457,7 +457,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Space
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -483,7 +483,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Exclaim
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -509,7 +509,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DblApostrophe
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -535,7 +535,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Hash
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -561,7 +561,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Dollar
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -587,7 +587,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Percent
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -613,7 +613,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ampersand
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -639,7 +639,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Apostrophe
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -665,7 +665,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LeftParen
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -691,7 +691,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RightParen
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -717,7 +717,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Asterisk
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -743,7 +743,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Plus
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 21
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -769,7 +769,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Comma
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 22
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -795,7 +795,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Minus
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 23
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -821,7 +821,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Period
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 24
+    startLine: 23
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -847,7 +847,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Slash
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 25
+    startLine: 24
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -873,7 +873,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num0
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 26
+    startLine: 25
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -899,7 +899,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num1
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 27
+    startLine: 26
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -925,7 +925,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num2
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 28
+    startLine: 27
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -951,7 +951,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num3
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 29
+    startLine: 28
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -977,7 +977,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num4
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 30
+    startLine: 29
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1003,7 +1003,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num5
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 31
+    startLine: 30
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1029,7 +1029,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num6
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 32
+    startLine: 31
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1055,7 +1055,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num7
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 33
+    startLine: 32
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1081,7 +1081,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num8
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 34
+    startLine: 33
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1107,7 +1107,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Num9
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 35
+    startLine: 34
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1133,7 +1133,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Colon
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 36
+    startLine: 35
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1159,7 +1159,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Semicolon
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 37
+    startLine: 36
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1185,7 +1185,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Less
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 38
+    startLine: 37
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1211,7 +1211,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Equals
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 39
+    startLine: 38
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1237,7 +1237,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Greater
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 40
+    startLine: 39
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1263,7 +1263,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Question
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 41
+    startLine: 40
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1289,7 +1289,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: At
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 42
+    startLine: 41
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1315,7 +1315,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LeftBracket
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 43
+    startLine: 42
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1341,7 +1341,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Backslash
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 44
+    startLine: 43
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1367,7 +1367,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RightBracket
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 45
+    startLine: 44
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1393,7 +1393,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Caret
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 46
+    startLine: 45
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1419,7 +1419,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Underscore
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 47
+    startLine: 46
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1445,7 +1445,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Grave
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 48
+    startLine: 47
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1471,7 +1471,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: A
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 49
+    startLine: 48
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1497,7 +1497,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: B
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 50
+    startLine: 49
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1523,7 +1523,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: C
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 51
+    startLine: 50
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1549,7 +1549,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: D
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 52
+    startLine: 51
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1575,7 +1575,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: E
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 53
+    startLine: 52
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1601,7 +1601,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 54
+    startLine: 53
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1627,7 +1627,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: G
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 55
+    startLine: 54
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1653,7 +1653,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: H
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 56
+    startLine: 55
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1679,7 +1679,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: I
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 57
+    startLine: 56
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1705,7 +1705,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: J
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 58
+    startLine: 57
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1731,7 +1731,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: K
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 59
+    startLine: 58
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1757,7 +1757,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: L
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 60
+    startLine: 59
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1783,7 +1783,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: M
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 61
+    startLine: 60
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1809,7 +1809,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: N
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 62
+    startLine: 61
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1835,7 +1835,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: O
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 63
+    startLine: 62
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1861,7 +1861,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: P
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 64
+    startLine: 63
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1887,7 +1887,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Q
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 65
+    startLine: 64
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1913,7 +1913,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: R
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 66
+    startLine: 65
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1939,7 +1939,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: S
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 67
+    startLine: 66
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1965,7 +1965,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: T
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 68
+    startLine: 67
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -1991,7 +1991,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: U
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 69
+    startLine: 68
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2017,7 +2017,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: V
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 70
+    startLine: 69
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2043,7 +2043,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: W
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 71
+    startLine: 70
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2069,7 +2069,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: X
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 72
+    startLine: 71
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2095,7 +2095,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Y
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 73
+    startLine: 72
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2121,7 +2121,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Z
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 74
+    startLine: 73
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2147,7 +2147,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LeftBrace
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 75
+    startLine: 74
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2173,7 +2173,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Pipe
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 76
+    startLine: 75
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2199,7 +2199,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RightBrace
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 77
+    startLine: 76
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2225,7 +2225,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Tilde
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 78
+    startLine: 77
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2251,7 +2251,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Delete
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 79
+    startLine: 78
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2277,7 +2277,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PlusMinus
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 80
+    startLine: 79
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2303,7 +2303,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Capslock
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 81
+    startLine: 80
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2329,7 +2329,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F1
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 82
+    startLine: 81
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2355,7 +2355,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F2
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 83
+    startLine: 82
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2381,7 +2381,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F3
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 84
+    startLine: 83
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2407,7 +2407,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F4
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 85
+    startLine: 84
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2433,7 +2433,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F5
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 86
+    startLine: 85
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2459,7 +2459,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F6
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 87
+    startLine: 86
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2485,7 +2485,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F7
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 88
+    startLine: 87
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2511,7 +2511,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F8
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 89
+    startLine: 88
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2537,7 +2537,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F9
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 90
+    startLine: 89
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2563,7 +2563,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F10
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 91
+    startLine: 90
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2589,7 +2589,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F11
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 92
+    startLine: 91
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2615,7 +2615,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F12
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 93
+    startLine: 92
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2641,7 +2641,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PrintScreen
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 94
+    startLine: 93
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2667,7 +2667,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ScrollLock
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 95
+    startLine: 94
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2693,7 +2693,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Pause
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 96
+    startLine: 95
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2719,7 +2719,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Insert
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 97
+    startLine: 96
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2745,7 +2745,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Home
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 98
+    startLine: 97
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2771,7 +2771,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Pageup
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 99
+    startLine: 98
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2797,7 +2797,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: End
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 100
+    startLine: 99
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2823,7 +2823,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Pagedown
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 101
+    startLine: 100
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2849,7 +2849,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Right
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 102
+    startLine: 101
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2875,7 +2875,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Left
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 103
+    startLine: 102
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2901,7 +2901,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Down
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 104
+    startLine: 103
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2927,7 +2927,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Up
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 105
+    startLine: 104
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2953,7 +2953,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NumlockClear
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 106
+    startLine: 105
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -2979,7 +2979,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpDivide
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 107
+    startLine: 106
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3005,7 +3005,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMultiply
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 108
+    startLine: 107
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3031,7 +3031,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMinus
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 109
+    startLine: 108
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3057,7 +3057,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpPlus
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 110
+    startLine: 109
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3083,7 +3083,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpEnter
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 111
+    startLine: 110
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3109,7 +3109,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp1
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 112
+    startLine: 111
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3135,7 +3135,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp2
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 113
+    startLine: 112
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3161,7 +3161,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp3
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 114
+    startLine: 113
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3187,7 +3187,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp4
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 115
+    startLine: 114
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3213,7 +3213,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp5
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 116
+    startLine: 115
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3239,7 +3239,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp6
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 117
+    startLine: 116
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3265,7 +3265,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp7
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 118
+    startLine: 117
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3291,7 +3291,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp8
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 119
+    startLine: 118
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3317,7 +3317,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp9
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 120
+    startLine: 119
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3343,7 +3343,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp0
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 121
+    startLine: 120
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3369,7 +3369,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpPeriod
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 122
+    startLine: 121
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3395,7 +3395,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Application
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 123
+    startLine: 122
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3421,7 +3421,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Power
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 124
+    startLine: 123
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3447,7 +3447,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpEquals
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 125
+    startLine: 124
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3473,7 +3473,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F13
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 126
+    startLine: 125
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3499,7 +3499,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F14
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 127
+    startLine: 126
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3525,7 +3525,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F15
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 128
+    startLine: 127
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3551,7 +3551,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F16
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 129
+    startLine: 128
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3577,7 +3577,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F17
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 130
+    startLine: 129
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3603,7 +3603,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F18
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 131
+    startLine: 130
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3629,7 +3629,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F19
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 132
+    startLine: 131
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3655,7 +3655,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F20
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 133
+    startLine: 132
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3681,7 +3681,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F21
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 134
+    startLine: 133
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3707,7 +3707,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F22
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 135
+    startLine: 134
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3733,7 +3733,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F23
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 136
+    startLine: 135
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3759,7 +3759,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: F24
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 137
+    startLine: 136
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3785,7 +3785,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Execute
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 138
+    startLine: 137
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3811,7 +3811,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Help
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 139
+    startLine: 138
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3837,7 +3837,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Menu
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 140
+    startLine: 139
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3863,7 +3863,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Select
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 141
+    startLine: 140
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3889,7 +3889,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Stop
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 142
+    startLine: 141
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3915,7 +3915,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Again
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 143
+    startLine: 142
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3941,7 +3941,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Undo
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 144
+    startLine: 143
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3967,7 +3967,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Cut
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 145
+    startLine: 144
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -3993,7 +3993,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Copy
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 146
+    startLine: 145
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4019,7 +4019,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Paste
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 147
+    startLine: 146
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4045,7 +4045,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Find
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 148
+    startLine: 147
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4071,7 +4071,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Mute
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 149
+    startLine: 148
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4097,7 +4097,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: VolumeUp
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 150
+    startLine: 149
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4123,7 +4123,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: VolumeDown
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 151
+    startLine: 150
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4149,7 +4149,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpComma
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 152
+    startLine: 151
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4175,7 +4175,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpEqualsAs400
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 153
+    startLine: 152
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4201,7 +4201,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AltErase
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 154
+    startLine: 153
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4227,7 +4227,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SysReq
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 155
+    startLine: 154
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4253,7 +4253,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Cancel
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 156
+    startLine: 155
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4279,7 +4279,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Clear
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 157
+    startLine: 156
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4305,7 +4305,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Prior
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 158
+    startLine: 157
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4331,7 +4331,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Return2
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 159
+    startLine: 158
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4357,7 +4357,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Separator
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 160
+    startLine: 159
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4383,7 +4383,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Out
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 161
+    startLine: 160
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4409,7 +4409,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Oper
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 162
+    startLine: 161
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4435,7 +4435,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ClearAgain
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 163
+    startLine: 162
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4461,7 +4461,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CrSel
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 164
+    startLine: 163
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4487,7 +4487,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ExSel
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 165
+    startLine: 164
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4513,7 +4513,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp00
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 166
+    startLine: 165
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4539,7 +4539,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Kp000
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 167
+    startLine: 166
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4565,7 +4565,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ThousandsSeparator
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 168
+    startLine: 167
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4591,7 +4591,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DecimalSeparator
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 169
+    startLine: 168
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4617,7 +4617,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CurrencyUnit
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 170
+    startLine: 169
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4643,7 +4643,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CurrencySubunit
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 171
+    startLine: 170
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4669,7 +4669,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpLeftParen
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 172
+    startLine: 171
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4695,7 +4695,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpRightParen
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 173
+    startLine: 172
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4721,7 +4721,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpLeftBrace
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 174
+    startLine: 173
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4747,7 +4747,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpRightBrace
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 175
+    startLine: 174
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4773,7 +4773,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpTab
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 176
+    startLine: 175
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4799,7 +4799,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpBackspace
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 177
+    startLine: 176
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4825,7 +4825,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpA
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 178
+    startLine: 177
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4851,7 +4851,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpB
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 179
+    startLine: 178
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4877,7 +4877,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpC
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 180
+    startLine: 179
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4903,7 +4903,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpD
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 181
+    startLine: 180
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4929,7 +4929,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpE
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 182
+    startLine: 181
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4955,7 +4955,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpF
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 183
+    startLine: 182
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -4981,7 +4981,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpXor
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 184
+    startLine: 183
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5007,7 +5007,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpPower
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 185
+    startLine: 184
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5033,7 +5033,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpPercent
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 186
+    startLine: 185
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5059,7 +5059,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpLess
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 187
+    startLine: 186
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5085,7 +5085,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpGreater
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 188
+    startLine: 187
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5111,7 +5111,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpAmpersand
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 189
+    startLine: 188
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5137,7 +5137,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpDblAmpersand
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 190
+    startLine: 189
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5163,7 +5163,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpVerticalBar
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 191
+    startLine: 190
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5189,7 +5189,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpDblVerticalBar
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 192
+    startLine: 191
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5215,7 +5215,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpColon
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 193
+    startLine: 192
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5241,7 +5241,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpHash
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 194
+    startLine: 193
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5267,7 +5267,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpSpace
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 195
+    startLine: 194
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5293,7 +5293,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpAt
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 196
+    startLine: 195
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5319,7 +5319,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpExclamation
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 197
+    startLine: 196
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5345,7 +5345,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMemStore
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 198
+    startLine: 197
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5371,7 +5371,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMemRecall
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 199
+    startLine: 198
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5397,7 +5397,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMemClear
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 200
+    startLine: 199
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5423,7 +5423,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMemAdd
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 201
+    startLine: 200
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5449,7 +5449,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMemSubtract
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 202
+    startLine: 201
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5475,7 +5475,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMemMultiply
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 203
+    startLine: 202
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5501,7 +5501,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpMemDivide
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 204
+    startLine: 203
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5527,7 +5527,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpPlusMinus
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 205
+    startLine: 204
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5553,7 +5553,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpClear
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 206
+    startLine: 205
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5579,7 +5579,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpClearEntry
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 207
+    startLine: 206
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5605,7 +5605,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpBinary
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 208
+    startLine: 207
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5631,7 +5631,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpOctal
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 209
+    startLine: 208
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5657,7 +5657,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpDecimal
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 210
+    startLine: 209
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5683,7 +5683,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KpHexadecimal
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 211
+    startLine: 210
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5709,7 +5709,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LCtrl
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 212
+    startLine: 211
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5735,7 +5735,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LShift
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 213
+    startLine: 212
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5761,7 +5761,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LAlt
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 214
+    startLine: 213
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5787,7 +5787,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LGui
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 215
+    startLine: 214
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5813,7 +5813,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RCtrl
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 216
+    startLine: 215
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5839,7 +5839,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RShift
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 217
+    startLine: 216
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5865,7 +5865,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RAlt
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 218
+    startLine: 217
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5891,7 +5891,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RGui
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 219
+    startLine: 218
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5917,7 +5917,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Mode
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 220
+    startLine: 219
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5943,7 +5943,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Sleep
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 221
+    startLine: 220
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5969,7 +5969,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Wake
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 222
+    startLine: 221
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -5995,7 +5995,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ChannelIncrement
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 223
+    startLine: 222
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6021,7 +6021,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ChannelDecrement
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 224
+    startLine: 223
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6047,7 +6047,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaPlay
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 225
+    startLine: 224
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6073,7 +6073,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaPause
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 226
+    startLine: 225
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6099,7 +6099,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaRecord
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 227
+    startLine: 226
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6125,7 +6125,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaFastForward
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 228
+    startLine: 227
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6151,7 +6151,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaRewind
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 229
+    startLine: 228
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6177,7 +6177,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaNextTrack
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 230
+    startLine: 229
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6203,7 +6203,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaPreviousTrack
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 231
+    startLine: 230
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6229,7 +6229,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaStop
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 232
+    startLine: 231
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6255,7 +6255,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaEject
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 233
+    startLine: 232
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6281,7 +6281,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaPlayPause
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 234
+    startLine: 233
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6307,7 +6307,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MediaSelect
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 235
+    startLine: 234
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6333,7 +6333,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcNew
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 236
+    startLine: 235
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6359,7 +6359,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcOpen
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 237
+    startLine: 236
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6385,7 +6385,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcClose
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 238
+    startLine: 237
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6411,7 +6411,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcExit
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 239
+    startLine: 238
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6437,7 +6437,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcSave
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 240
+    startLine: 239
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6463,7 +6463,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcPrint
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 241
+    startLine: 240
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6489,7 +6489,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcProperties
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 242
+    startLine: 241
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6515,7 +6515,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcSearch
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 243
+    startLine: 242
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6541,7 +6541,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcHome
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 244
+    startLine: 243
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6567,7 +6567,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcBack
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 245
+    startLine: 244
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6593,7 +6593,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcForward
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 246
+    startLine: 245
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6619,7 +6619,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcStop
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 247
+    startLine: 246
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6645,7 +6645,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcRefresh
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 248
+    startLine: 247
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6671,7 +6671,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AcBookmarks
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 249
+    startLine: 248
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6697,7 +6697,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SoftLeft
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 250
+    startLine: 249
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6723,7 +6723,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SoftRight
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 251
+    startLine: 250
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6749,7 +6749,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Call
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 252
+    startLine: 251
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6775,7 +6775,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EndCall
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 253
+    startLine: 252
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6801,7 +6801,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LeftTab
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 254
+    startLine: 253
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6827,7 +6827,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Level5Shift
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 255
+    startLine: 254
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6853,7 +6853,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MultiKeyCompose
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 256
+    startLine: 255
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6879,7 +6879,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LMeta
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 257
+    startLine: 256
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6905,7 +6905,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RMeta
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 258
+    startLine: 257
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6931,7 +6931,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LHyper
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 259
+    startLine: 258
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -6957,7 +6957,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: RHyper
     path: ../../repos/SDL3-CS/SDL3/Enums/SdlKeycode.cs
-    startLine: 260
+    startLine: 259
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

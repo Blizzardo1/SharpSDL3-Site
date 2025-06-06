@@ -53,7 +53,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Subpixel
     path: ../../repos/SDL3-CS/SDL3/TTF/GlyphUnion.cs
-    startLine: 7
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -80,7 +80,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KerningSmart
     path: ../../repos/SDL3-CS/SDL3/TTF/GlyphUnion.cs
-    startLine: 9
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF

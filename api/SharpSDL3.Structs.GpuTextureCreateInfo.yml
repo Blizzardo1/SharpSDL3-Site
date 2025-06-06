@@ -28,7 +28,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GpuTextureCreateInfo
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -60,7 +60,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -87,7 +87,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Format
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -114,7 +114,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Usage
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -141,7 +141,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Width
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -168,7 +168,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Height
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -195,7 +195,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LayerCountOrDepth
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -222,7 +222,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: NumLevels
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 15
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -249,7 +249,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SampleCount
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 16
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -276,7 +276,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Props
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuTextureCreateInfo.cs
-    startLine: 17
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

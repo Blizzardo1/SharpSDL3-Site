@@ -57,7 +57,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Event
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -89,7 +89,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -116,7 +116,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Common
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -143,7 +143,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Display
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -170,7 +170,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Window
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -197,7 +197,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KDevice
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -224,7 +224,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Key
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -251,7 +251,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Edit
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -278,7 +278,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EditCandidates
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -305,7 +305,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Text
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -332,7 +332,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MDevice
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -359,7 +359,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Motion
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -386,7 +386,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Button
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 19
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -413,7 +413,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Wheel
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 20
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -440,7 +440,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: JDevice
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 21
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -467,7 +467,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: JAxis
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 22
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -494,7 +494,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: JBall
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 23
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -521,7 +521,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: JHat
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 24
+    startLine: 23
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -548,7 +548,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: JButton
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 25
+    startLine: 24
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -575,7 +575,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: JBattery
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 26
+    startLine: 25
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -602,7 +602,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GDevice
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 27
+    startLine: 26
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -629,7 +629,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GAxis
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 28
+    startLine: 27
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -656,7 +656,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GButton
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 29
+    startLine: 28
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -683,7 +683,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GTouchpad
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 30
+    startLine: 29
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -710,7 +710,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GSensor
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 31
+    startLine: 30
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -737,7 +737,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ADevice
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 32
+    startLine: 31
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -764,7 +764,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CDevice
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 33
+    startLine: 32
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -791,7 +791,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Sensor
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 34
+    startLine: 33
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -818,7 +818,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Quit
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 35
+    startLine: 34
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -845,7 +845,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: User
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 36
+    startLine: 35
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -872,7 +872,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: TFinger
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 37
+    startLine: 36
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -899,7 +899,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PProximity
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 38
+    startLine: 37
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -926,7 +926,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PTouch
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 39
+    startLine: 38
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -953,7 +953,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PMotion
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 40
+    startLine: 39
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -980,7 +980,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PButton
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 41
+    startLine: 40
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -1007,7 +1007,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PAxis
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 42
+    startLine: 41
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -1034,7 +1034,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Render
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 43
+    startLine: 42
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -1061,7 +1061,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Drop
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 44
+    startLine: 43
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -1088,7 +1088,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Clipboard
     path: ../../repos/SDL3-CS/SDL3/Structs/Event.cs
-    startLine: 45
+    startLine: 44
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

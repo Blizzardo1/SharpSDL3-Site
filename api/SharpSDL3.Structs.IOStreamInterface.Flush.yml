@@ -19,7 +19,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Flush
     path: ../../repos/SDL3-CS/SDL3/Structs/IOStreamInterface1.cs
-    startLine: 61
+    startLine: 66
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

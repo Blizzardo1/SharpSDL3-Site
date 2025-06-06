@@ -35,7 +35,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GpuSamplerCreateInfo
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -67,7 +67,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MinFilter
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -94,7 +94,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MagFilter
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -121,7 +121,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MipmapMode
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -148,7 +148,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AddressModeU
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -175,7 +175,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AddressModeV
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -202,7 +202,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AddressModeW
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -229,7 +229,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MipLodBias
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 15
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -256,7 +256,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MaxAnisotropy
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 16
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -283,7 +283,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CompareOp
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 17
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -310,7 +310,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MinLod
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 18
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -337,7 +337,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MaxLod
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 19
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -364,7 +364,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EnableAnisotropy
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 20
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -391,7 +391,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: EnableCompare
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 21
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -418,7 +418,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Padding1
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 22
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -445,7 +445,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Padding2
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 23
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -472,7 +472,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Props
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuSamplerCreateInfo.cs
-    startLine: 24
+    startLine: 22
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

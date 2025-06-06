@@ -22,7 +22,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GPUTextEngineWinding
     path: ../../repos/SDL3-CS/SDL3/TTF/GPUTextEngineWinding.cs
-    startLine: 1
+    startLine: 2
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -47,7 +47,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Invalid
     path: ../../repos/SDL3-CS/SDL3/TTF/GPUTextEngineWinding.cs
-    startLine: 2
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -73,7 +73,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Clockwise
     path: ../../repos/SDL3-CS/SDL3/TTF/GPUTextEngineWinding.cs
-    startLine: 3
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -99,7 +99,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CounterClockwise
     path: ../../repos/SDL3-CS/SDL3/TTF/GPUTextEngineWinding.cs
-    startLine: 4
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF

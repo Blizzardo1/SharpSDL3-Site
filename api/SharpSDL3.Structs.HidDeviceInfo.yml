@@ -34,7 +34,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: HidDeviceInfo
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -66,7 +66,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Path
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -93,7 +93,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: VendorId
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -120,7 +120,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ProductId
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -147,7 +147,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SerialNumber
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -174,7 +174,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ReleaseNumber
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -201,7 +201,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ManufacturerString
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -228,7 +228,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ProductString
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 15
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -255,7 +255,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: UsagePage
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 16
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -282,7 +282,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Usage
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 17
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -309,7 +309,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: InterfaceNumber
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 18
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -336,7 +336,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: InterfaceClass
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 19
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -363,7 +363,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: InterfaceSubclass
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 20
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -390,7 +390,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: InterfaceProtocol
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 21
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -417,7 +417,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: BusType
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 22
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -444,7 +444,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Next
     path: ../../repos/SDL3-CS/SDL3/Structs/HidDeviceInfo.cs
-    startLine: 23
+    startLine: 21
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

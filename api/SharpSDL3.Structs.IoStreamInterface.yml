@@ -58,7 +58,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Version
     path: ../../repos/SDL3-CS/SDL3/Structs/IoStreamInterface.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -85,7 +85,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Size
     path: ../../repos/SDL3-CS/SDL3/Structs/IoStreamInterface.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -112,7 +112,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Seek
     path: ../../repos/SDL3-CS/SDL3/Structs/IoStreamInterface.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -139,7 +139,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Read
     path: ../../repos/SDL3-CS/SDL3/Structs/IoStreamInterface.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -166,7 +166,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Write
     path: ../../repos/SDL3-CS/SDL3/Structs/IoStreamInterface.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -193,7 +193,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Flush
     path: ../../repos/SDL3-CS/SDL3/Structs/IoStreamInterface.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -220,7 +220,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Close
     path: ../../repos/SDL3-CS/SDL3/Structs/IoStreamInterface.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

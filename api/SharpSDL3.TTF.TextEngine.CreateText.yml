@@ -19,7 +19,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CreateText
     path: ../../repos/SDL3-CS/SDL3/TTF/TextEngine.cs
-    startLine: 27
+    startLine: 28
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.TTF
@@ -34,7 +34,7 @@ items:
 
     <p>
 
-    This function should set the <code>internal-&gt;engine_text</code> field to a non-NULL value.
+    This function should set the <code>internal-&gt;engine_text</code> field to a non-<a href="https://learn.microsoft.com/dotnet/csharp/language-reference/keywords/null">null</a> value.
 
     </p>
 

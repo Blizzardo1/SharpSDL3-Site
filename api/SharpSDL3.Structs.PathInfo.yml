@@ -56,7 +56,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/PathInfo.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -83,7 +83,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Size
     path: ../../repos/SDL3-CS/SDL3/Structs/PathInfo.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -110,7 +110,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CreateTime
     path: ../../repos/SDL3-CS/SDL3/Structs/PathInfo.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -137,7 +137,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ModifyTime
     path: ../../repos/SDL3-CS/SDL3/Structs/PathInfo.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -164,7 +164,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: AccessTime
     path: ../../repos/SDL3-CS/SDL3/Structs/PathInfo.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

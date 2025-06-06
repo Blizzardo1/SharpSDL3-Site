@@ -46,7 +46,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DefaultPlayback
     path: ../../repos/SDL3-CS/SDL3/Mixer/AudioDeviceId.cs
-    startLine: 10
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -83,7 +83,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DefaultRecording
     path: ../../repos/SDL3-CS/SDL3/Mixer/AudioDeviceId.cs
-    startLine: 19
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer

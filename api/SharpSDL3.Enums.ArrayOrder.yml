@@ -51,7 +51,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: None
     path: ../../repos/SDL3-CS/SDL3/Enums/ArrayOrder.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -77,7 +77,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Rgb
     path: ../../repos/SDL3-CS/SDL3/Enums/ArrayOrder.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -103,7 +103,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Rgba
     path: ../../repos/SDL3-CS/SDL3/Enums/ArrayOrder.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -129,7 +129,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Argb
     path: ../../repos/SDL3-CS/SDL3/Enums/ArrayOrder.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -155,7 +155,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bgr
     path: ../../repos/SDL3-CS/SDL3/Enums/ArrayOrder.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -181,7 +181,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bgra
     path: ../../repos/SDL3-CS/SDL3/Enums/ArrayOrder.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -207,7 +207,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Abgr
     path: ../../repos/SDL3-CS/SDL3/Enums/ArrayOrder.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

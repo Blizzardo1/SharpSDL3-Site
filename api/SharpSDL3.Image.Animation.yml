@@ -24,7 +24,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Animation
     path: ../../repos/SDL3-CS/SDL3/Image/Animation.cs
-    startLine: 9
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Image
@@ -57,7 +57,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: W
     path: ../../repos/SDL3-CS/SDL3/Image/Animation.cs
-    startLine: 11
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Image
@@ -84,7 +84,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: H
     path: ../../repos/SDL3-CS/SDL3/Image/Animation.cs
-    startLine: 12
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Image
@@ -111,7 +111,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Count
     path: ../../repos/SDL3-CS/SDL3/Image/Animation.cs
-    startLine: 13
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Image
@@ -138,7 +138,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Frames
     path: ../../repos/SDL3-CS/SDL3/Image/Animation.cs
-    startLine: 14
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Image
@@ -165,7 +165,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Delays
     path: ../../repos/SDL3-CS/SDL3/Image/Animation.cs
-    startLine: 15
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Image

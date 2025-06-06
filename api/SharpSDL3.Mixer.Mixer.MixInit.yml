@@ -27,7 +27,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MixInit
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 8
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -64,7 +64,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: None
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 13
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -92,7 +92,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Flac
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 17
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -120,7 +120,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Mod
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 21
+    startLine: 25
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -148,7 +148,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Mp3
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 25
+    startLine: 30
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -176,7 +176,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ogg
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 29
+    startLine: 35
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -204,7 +204,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Midi
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 33
+    startLine: 40
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -232,7 +232,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Opus
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 37
+    startLine: 45
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer
@@ -260,7 +260,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: WavPack
     path: ../../repos/SDL3-CS/SDL3/Mixer/MixInit.cs
-    startLine: 41
+    startLine: 50
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Mixer

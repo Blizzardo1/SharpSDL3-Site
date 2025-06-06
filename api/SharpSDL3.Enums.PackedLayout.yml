@@ -53,7 +53,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LayoutNone
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -79,7 +79,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout332
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -105,7 +105,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout4444
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -131,7 +131,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout1555
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -157,7 +157,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout5551
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -183,7 +183,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout565
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -209,7 +209,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout8888
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -235,7 +235,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout2101010
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -261,7 +261,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Layout1010102
     path: ../../repos/SDL3-CS/SDL3/Enums/PackedLayout.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

@@ -29,7 +29,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FSize
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 3
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -58,7 +58,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: .ctor
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 3
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -92,7 +92,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Width
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 4
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -121,7 +121,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Height
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 5
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -150,7 +150,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Equals
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 7
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -189,7 +189,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: op_Equality
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 10
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -225,7 +225,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: op_Inequality
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 14
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -261,7 +261,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GetHashCode
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 18
+    startLine: 20
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -293,7 +293,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ToString
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 22
+    startLine: 24
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -325,7 +325,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: op_Implicit
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 26
+    startLine: 28
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -359,7 +359,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: op_Explicit
     path: ../../repos/SDL3-CS/SDL3/Structs/FSize.cs
-    startLine: 30
+    startLine: 32
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

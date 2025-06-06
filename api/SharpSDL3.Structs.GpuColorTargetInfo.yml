@@ -32,7 +32,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GpuColorTargetInfo
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -64,7 +64,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Texture
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -91,7 +91,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: MipLevel
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -118,7 +118,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LayerOrDepthPlane
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -145,7 +145,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ClearColor
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -172,7 +172,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: LoadOp
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -199,7 +199,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: StoreOp
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -226,7 +226,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ResolveTexture
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 15
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -253,7 +253,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ResolveMipLevel
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 16
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -280,7 +280,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ResolveLayer
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 17
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -307,7 +307,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Cycle
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 18
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -334,7 +334,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CycleResolveTexture
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 19
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -361,7 +361,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Padding1
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 20
+    startLine: 18
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -388,7 +388,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Padding2
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuColorTargetInfo.cs
-    startLine: 21
+    startLine: 19
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

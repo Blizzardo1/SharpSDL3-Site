@@ -19,7 +19,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SdlEglAttribArrayCallback
     path: ../../repos/SDL3-CS/SDL3/Delegates.cs
-    startLine: 41
+    startLine: 40
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3

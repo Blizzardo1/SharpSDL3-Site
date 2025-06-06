@@ -25,7 +25,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SensorEvent
     path: ../../repos/SDL3-CS/SDL3/Structs/SensorEvent.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -57,7 +57,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/SensorEvent.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -84,7 +84,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Reserved
     path: ../../repos/SDL3-CS/SDL3/Structs/SensorEvent.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -111,7 +111,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Timestamp
     path: ../../repos/SDL3-CS/SDL3/Structs/SensorEvent.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -138,7 +138,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Which
     path: ../../repos/SDL3-CS/SDL3/Structs/SensorEvent.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -165,7 +165,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Data
     path: ../../repos/SDL3-CS/SDL3/Structs/SensorEvent.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -192,7 +192,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: SensorTimestamp
     path: ../../repos/SDL3-CS/SDL3/Structs/SensorEvent.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

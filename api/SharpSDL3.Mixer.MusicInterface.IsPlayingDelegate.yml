@@ -33,7 +33,7 @@ items:
       description: An opaque pointer to the music object.
     return:
       type: System.Boolean
-      description: True if the music is playing, false otherwise.
+      description: True if the music is playing, <a href="https://learn.microsoft.com/dotnet/csharp/language-reference/builtin-types/bool">false</a> otherwise.
     content.vb: Public Delegate Function MusicInterface.IsPlayingDelegate(music As IntPtr) As Boolean
 references:
 - uid: SharpSDL3.Mixer

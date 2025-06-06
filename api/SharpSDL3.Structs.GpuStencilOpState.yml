@@ -23,7 +23,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: GpuStencilOpState
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuStencilOpState.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -55,7 +55,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: FailOp
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuStencilOpState.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -82,7 +82,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: PassOp
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuStencilOpState.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -109,7 +109,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: DepthFailOp
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuStencilOpState.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -136,7 +136,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: CompareOp
     path: ../../repos/SDL3-CS/SDL3/Structs/GpuStencilOpState.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs

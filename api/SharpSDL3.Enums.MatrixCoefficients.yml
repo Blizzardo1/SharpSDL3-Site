@@ -59,7 +59,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Identity
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -85,7 +85,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt709
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -111,7 +111,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Unspecified
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -137,7 +137,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Fcc
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -163,7 +163,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt470Bg
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -189,7 +189,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt601
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -215,7 +215,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Smpte240
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -241,7 +241,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ycgco
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -267,7 +267,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt2020Ncl
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -293,7 +293,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Bt2020Cl
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -319,7 +319,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Smpte2085
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -345,7 +345,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ChromaDerivedNcl
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -371,7 +371,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ChromaDerivedCl
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 16
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -397,7 +397,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Ictcp
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 17
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -423,7 +423,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Custom
     path: ../../repos/SDL3-CS/SDL3/Enums/MatrixCoefficients.cs
-    startLine: 18
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

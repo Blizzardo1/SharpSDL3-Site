@@ -56,7 +56,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Home
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 4
+    startLine: 3
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -82,7 +82,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Desktop
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 5
+    startLine: 4
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -108,7 +108,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Documents
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -134,7 +134,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Downloads
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 7
+    startLine: 6
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -160,7 +160,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Music
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 8
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -186,7 +186,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Pictures
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 9
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -212,7 +212,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Publicshare
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 10
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -238,7 +238,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Savedgames
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 11
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -264,7 +264,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Screenshots
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 12
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -290,7 +290,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Templates
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 13
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -316,7 +316,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Videos
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 14
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums
@@ -342,7 +342,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Count
     path: ../../repos/SDL3-CS/SDL3/Enums/Folder.cs
-    startLine: 15
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Enums

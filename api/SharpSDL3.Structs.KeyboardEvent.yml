@@ -30,7 +30,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: KeyboardEvent
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 6
+    startLine: 5
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -62,7 +62,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Type
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 9
+    startLine: 7
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -89,7 +89,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Reserved
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 10
+    startLine: 8
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -116,7 +116,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Timestamp
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 11
+    startLine: 9
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -143,7 +143,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: WindowId
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 12
+    startLine: 10
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -170,7 +170,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Which
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 13
+    startLine: 11
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -197,15 +197,15 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: ScanCode
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 14
+    startLine: 12
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
   syntax:
-    content: public ScanCode ScanCode
+    content: public Scancode ScanCode
     return:
-      type: SharpSDL3.Enums.ScanCode
-    content.vb: Public ScanCode As ScanCode
+      type: SharpSDL3.Enums.Scancode
+    content.vb: Public ScanCode As Scancode
 - uid: SharpSDL3.Structs.KeyboardEvent.Key
   commentId: F:SharpSDL3.Structs.KeyboardEvent.Key
   id: Key
@@ -224,7 +224,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Key
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 15
+    startLine: 13
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -251,7 +251,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Mod
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 16
+    startLine: 14
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -278,7 +278,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Raw
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 17
+    startLine: 15
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -305,7 +305,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Down
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 18
+    startLine: 16
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -332,7 +332,7 @@ items:
       repo: https://github.com/Blizzardo1/SharpSDL3
     id: Repeat
     path: ../../repos/SDL3-CS/SDL3/Structs/KeyboardEvent.cs
-    startLine: 19
+    startLine: 17
   assemblies:
   - SharpSDL3
   namespace: SharpSDL3.Structs
@@ -632,13 +632,13 @@ references:
   nameWithType.vb: ULong
   fullName.vb: ULong
   name.vb: ULong
-- uid: SharpSDL3.Enums.ScanCode
-  commentId: T:SharpSDL3.Enums.ScanCode
+- uid: SharpSDL3.Enums.Scancode
+  commentId: T:SharpSDL3.Enums.Scancode
   parent: SharpSDL3.Enums
-  href: SharpSDL3.Enums.ScanCode.html
-  name: ScanCode
-  nameWithType: ScanCode
-  fullName: SharpSDL3.Enums.ScanCode
+  href: SharpSDL3.Enums.Scancode.html
+  name: Scancode
+  nameWithType: Scancode
+  fullName: SharpSDL3.Enums.Scancode
 - uid: SharpSDL3.Enums.KeyMod
   commentId: T:SharpSDL3.Enums.KeyMod
   parent: SharpSDL3.Enums
